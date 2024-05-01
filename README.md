@@ -1,0 +1,1 @@
+# typescript-assignment-45-questions-ai-course
