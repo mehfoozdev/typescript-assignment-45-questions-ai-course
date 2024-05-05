@@ -1,5 +1,5 @@
 // Typescript 1 to 45 Qs  --- Mehfooz Ali
-
+// Learning typescript
 //Q 1: install Node.js, Tyoescript and VS Code on your Computer/Laptop.
 //Ans 1: DONE
 
